@@ -12,7 +12,7 @@ This is the source code for the complete English translation of Tensai Bakabon f
 	* Use this to store your roms
 * `script`
 	* Contains the dump script in `Script.json`. It contains the Japanese script and the English translation.
-    * You can also store xlsx backups of the script here.
+	* You can also store xlsx backups of the script here.
 * `tables`
 	* "Dictionary" specifies dictionary mapping. A dictionary can be mapped to multiple character values for compression purposes.
 	* "FindAndReplace" does some text replacement before serializing to JSON / inserting to the rom.
@@ -33,16 +33,16 @@ Check out the repo [tensai-bakabon-sms-en-manual](https://github.com/romh-acking
 
 ### Main Team
 * FCandChill
-    * Project lead
-    * ASM hacking
+	* Project lead
+	* ASM hacking
 	* Graphics
 	* Manual Editing
-    * Utilities
-    * Proofreader
+	* Utilities
+	* Proofreader
 * cccmar
 	* For going above and beyond playtesting
 	* Spot translations
-    * Hacking
+	* Hacking
 * TheMajinZenki
 	* Translator
 ### Support
@@ -59,10 +59,12 @@ Check out the repo [tensai-bakabon-sms-en-manual](https://github.com/romh-acking
 	* For making Emulicious that features an amazing debugger.
 * Klarth
 	* For making TileShop
+* Maxim
+	* Credits corrections
 
 ### Beta Testers
 * cccmar
 * Révo
 	* Real hardware tester
-	* Not that guy from the Super Mario 64 disassembly.
+	* Not that guy from the Super Mario 64 decompilation project.
 * togemet2

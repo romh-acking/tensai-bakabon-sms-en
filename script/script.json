@@ -13834,7 +13834,7 @@
                   },
                   "text": {
                     "Original": "{02}オサール コウタですよ。[LINE]レレレのレー？！[LINE]",
-                    "New": "I'm Ossare Kohta. Rerere?!",
+                    "New": "I'm Ossale Kohta. Rerere?!",
                     "Comment": "",
                     "Menu": "Staff"
                   }
@@ -13922,7 +13922,7 @@
                   },
                   "text": {
                     "Original": "{02}ちょうこおねえさんよ。[LINE]また でんわしてね！！[LINE]",
-                    "New": "Chouko Neesan.[LINE]Call me anytime!",
+                    "New": "Choko Oneesan.[LINE]Call me anytime!",
                     "Comment": "",
                     "Menu": "Staff"
                   }
@@ -13988,7 +13988,7 @@
                   },
                   "text": {
                     "Original": "{02}ターニャでーす。[LINE]るんるん。[LINE]",
-                    "New": "I'm Tanya.[LINE]Lah lah.",
+                    "New": "I'm Tarnya.[LINE]Lah lah.",
                     "Comment": "",
                     "Menu": "Staff"
                   }
@@ -15105,7 +15105,7 @@
                   },
                   "text": {
                     "Original": "{02}これは やっぱり[LINE]わしのものなのだ。[LINE]",
-                    "New": "I want to keep this.",
+                    "New": "I'll be taking this.",
                     "Comment": "",
                     "Menu": "Bakabon's Dad"
                   }
@@ -18329,19 +18329,17 @@
                 "dialogue_000768": {
                   "metadata": {
                     "file": "Original",
-                    "pointerLocation": "0x002E1A",
+                    "pointerLocation": "0x002C1F",
                     "textLocation": "0x02ED48",
-                    "byteLength": "0x01"
+                    "byteLength": "0x16"
                   },
                   "text": {
-                    "Menu": null,
-                    "Original": null,
-                    "New": null,
-                    "Comment": null,
-                    "Proof": null
-                  },
-                  "samePointerAs": "dialogue_000628"
-                }
+                    "Original": "{02}これは やっぱり[LINE]わしのものなのだ。[LINE]",
+                    "New": "I want to hold onto this.",
+                    "Comment": "",
+                    "Menu": "Bakabon's Dad"
+                  }
+				}
               }
             }
           }

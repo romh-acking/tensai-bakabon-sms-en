@@ -11,7 +11,7 @@
     "new": true,
     "bytes": false,
     "menu": true,
-    "proof": true
+    "proof": false
   },
   "misc": {
     "blankOutTextDataAfterRead": true,
@@ -43,7 +43,7 @@
           "pointerLength": 2,
           "placementStrategy": "Bestfit",
           "bytesBetween": 0,
-		  "subentryKeyPrefix": "dictionary"
+		      "subentryKeyPrefix": "dictionary"
         },
         "renderFormat": {
           "dialogueReadType": "HasDelimiter",
