@@ -22,6 +22,7 @@ This is the source code for the complete English translation of Tensai Bakabon f
 	* Subfolder `compressed (new)` is where compressed version of custom assets are stored.
 	* Subfolder `uncompressed (new)` is where uncompressed custom (mostly translated) assets are stored.
 	* Subfolder `uncompressed (original)` is where the original uncompressed assets dumped from the rom are stored.
+		* The sky castle graphics are copied over from here for the `Write.bat` script. So you'll want to run `Dump.bat` to get these, however, `Dump.bat` will overwrite the `script.json` so you'll want to temporarily comment the Spiro script dumping logic out.
 * `tools`
 	* `armips` a fork of armips that supports z80 assembly language patches.
 	* `compression` [the RLE (de)compressor.](https://github.com/romh-acking/tensei-bakabon-de-compressor)

@@ -60,7 +60,7 @@
           "mirrorBlankDictionaryEntries": false,
           "pixelsPerLine": 0,
           "autoLineBreak": "None",
-          "squishyTextFile": ".\\tables\\SquishyText"
+          "squishyTextFile": ".\\tables\\FindAndReplace"
         }
       },
       "Dialogue": {
@@ -945,7 +945,7 @@
           "mirrorBlankDictionaryEntries": false,
           "pixelsPerLine": 96,
           "autoLineBreak": "TokimekiMihoMessage",
-          "squishyTextFile": ".\\tables\\SquishyText"
+          "squishyTextFile": ".\\tables\\FindAndReplace"
         }
       },
       "Namecards": {
@@ -977,7 +977,7 @@
           "mirrorBlankDictionaryEntries": false,
           "pixelsPerLine": 0,
           "autoLineBreak": "None",
-          "squishyTextFile": ".\\tables\\SquishyText"
+          "squishyTextFile": ".\\tables\\FindAndReplace"
         }
       }
     }

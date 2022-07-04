@@ -30,7 +30,6 @@ copy "%baseImage%" "%newImage%"
 copy "%graphicsUncompressedOriginal%\skycastle1.bin" "%graphicsUncompressedNew%\skycastle1.bin"
 copy "%graphicsUncompressedOriginal%\skycastle2.bin" "%graphicsUncompressedNew%\skycastle2.bin"
 
-"%compressionTool%\Tensei Bakabon GFX.exe" "Write" "%graphicsUncompressedNew%\font - blank.bin" "%graphicsCompressedNew%\font - blank.bin" "4"
 "%compressionTool%\Tensei Bakabon GFX.exe" "Write" "%graphicsUncompressedNew%\font - password.bin" "%graphicsCompressedNew%\font - password.bin" "4"
 "%compressionTool%\Tensei Bakabon GFX.exe" "Write" "%graphicsUncompressedNew%\title.bin" "%graphicsCompressedNew%\title.bin" "4"
 "%compressionTool%\Tensei Bakabon GFX.exe" "Write" "%graphicsUncompressedNew%\overworld.bin" "%graphicsCompressedNew%\overworld.bin" "4"
