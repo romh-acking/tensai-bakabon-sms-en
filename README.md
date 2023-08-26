@@ -26,6 +26,7 @@ This is the source code for the complete English translation of Tensai Bakabon f
 * `tools`
 	* `armips` a fork of armips that supports z80 assembly language patches.
 	* `compression` [the RLE (de)compressor.](https://github.com/romh-acking/tensei-bakabon-de-compressor)
+	* `checksum` is [the internal checksum corrector](https://www.smspower.org/forums/16629-MasterSystemChecksumFixer)
 ## Manual
 Check out the repo [tensai-bakabon-sms-en-manual](https://github.com/romh-acking/tensai-bakabon-sms-en-manual) for manual resources. It contains two versions of the manual: one with all the Japanese text blanked out and one that is typesetted. Much thanks to Sega Retro for the scans of the manual. Check out the original scans here:
 [https://segaretro.org/File:TensaiBakabonSMSJPManual.pdf](https://segaretro.org/File:TensaiBakabonSMSJPManual.pdf)

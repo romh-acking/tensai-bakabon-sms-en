@@ -9,6 +9,7 @@ set toolsFolder=%projectFolder%\tools
 set spiroFolder=%toolsFolder%\spiro
 set armipsFolder=%toolsFolder%\armips
 set compressionTool=%toolsFolder%\compression
+set checksumTool=%toolsFolder%\checksum
 
 set asmFolder=%cd%\asm
 
@@ -47,6 +48,9 @@ copy "%graphicsUncompressedOriginal%\skycastle2.bin" "%graphicsUncompressedNew%\
 
 ::Armips scripts
 "%armipsFolder%\armips.exe" "%projectFolder%\asm\main.asm"
+
+::Fix checksum
+"%checksumTool%\MSChecksumFixer.exe" "%newImage%"
 
 ::"%newImage%"
 @Pause
